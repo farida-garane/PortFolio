@@ -1,0 +1,27 @@
+export const portfolioData = {
+  personal: {
+    name: "Farida Anne Kevine GARANE",
+    title: "Développeuse Logiciel & Web",
+    location: "Burkina Faso 🇧🇫",
+    email: "garanefaridaannekevine@gmail.com", 
+    linkedin: "https://www.linkedin.com/in/farida-garane",
+    github: "https://github.com/farida-garane",
+    bio: "Passionnée par la conception logicielle et les technologies du web, je crée des applications pensées pour répondre à des problématiques concrètes et optimiser des processus du quotidien.",
+  },
+  skills: [
+    { name: "JavaScript", category: "Frontend" },
+    { name: "React", category: "Frontend" },
+    { name: "Next.js", category: "Frontend" },
+    { name: "HTML5 / CSS3", category: "Frontend" },
+    { name: "Tailwind CSS", category: "Frontend" },
+    { name: "Python", category: "Backend" },
+    { name: "Django", category: "Backend" },
+    { name: "Node.js", category: "Backend" },
+    { name: "PostgreSQL", category: "Bases de données" },
+    { name: "MySQL", category: "Bases de données" },
+    { name: "MongoDB", category: "Bases de données" },
+    { name: "Docker", category: "Outils" },
+    { name: "Git & GitHub", category: "Outils" },
+    { name: "Flutter", category: "Mobile" },
+  ],
+};
